@@ -39,13 +39,6 @@
 
 ---
 
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/alexlai7704?si=730b7147e42845fa)
-<br/>
----
   
  [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
