@@ -47,5 +47,5 @@
 <br/>
 ---
   
- [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02)](https://github.com/anuraghazra/github-readme-stats)
+ [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
