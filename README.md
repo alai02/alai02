@@ -4,7 +4,13 @@
 I am a software developer currently working at Scotiabank in the GTA, welcome to my github!
 
 <a href="https://alai02.github.io/website/" target="_blank"><img align="left" alt="alex lai portfolio website" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/alexlai02/" target="_blank"><img align="left" alt="Alex Lai | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/alexlai02/" target="_blank">
+    <!-- <img align="left" alt="Alex Lai | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> -->
+    <img alt="Alex Lai | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <!-- <a href="https://medium.com/@username" target="_blank">
     <img align="left" alt="username | Medium" width="22px" src="SOMEPATH/medium.svg" />
 <a href="https://dev.to/username" target="_blank">
@@ -36,20 +42,12 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
 <br />
-<br />
 
 ---
 
 ### Tools:
 
-<br />
-
-<!-- ANT, Make
-Elastic Search
-JIRA
-SQL, NoSQL
-AWS, Azure
- -->
+<!-- ANT, Make, Elastic Search, JIRA, SQL, NoSQL, AWS, Azure -->
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)]()
@@ -75,13 +73,7 @@ AWS, Azure
 
 <br />
 
-<!-- Advanced Data Structures
-Agile, Scrum
-Algorithm analysis
-OOP
-SOAP, RESTful APIs
-UX/UI desig -->
-
+<!-- Advanced Data Structures, Agile, Scrum, Algorithm analysis, OOP, SOAP, RESTful APIs, UX/UI desig -->
 
 ---
   
