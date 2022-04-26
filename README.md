@@ -32,6 +32,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 <br />
 ---
 ### Tools:
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
