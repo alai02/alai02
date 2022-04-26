@@ -30,6 +30,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
 <br />
+
 ---
 
 ### Tools:
@@ -51,6 +52,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
 
 <br />
+
 ---
 
  [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
