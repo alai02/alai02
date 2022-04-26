@@ -16,9 +16,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 ---
 
 ### Languages:
-
 <br />
-
 [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -28,15 +26,10 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]()
-
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-
 <br />
-
 ---
-
 ### Tools:
-
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
@@ -52,11 +45,8 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)]()
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
-[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)]()
 
 <br />
-
 ---
-  
  [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
