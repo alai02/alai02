@@ -17,6 +17,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 
 ### Languages:
 <br />
+
 [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -27,6 +28,7 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]()
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+
 <br />
 ---
 ### Tools:
@@ -48,5 +50,6 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 
 <br />
 ---
+
  [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
