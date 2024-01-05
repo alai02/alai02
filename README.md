@@ -55,5 +55,4 @@ I am a software developer currently working at Scotiabank in the GTA, welcome to
 
 ---
 
- [![Alexs's GitHub stats](https://github-readme-stats.vercel.app/api?username=alai02&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
