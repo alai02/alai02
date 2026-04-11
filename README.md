@@ -18,7 +18,7 @@ Developer    specializing in **AI-driven application development**, **distribute
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Technologies
+### 💻 Some Tech
 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
